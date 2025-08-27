@@ -19,7 +19,7 @@ The task involved analyzing **Amazon Prime Video content data** to explore *cont
 - Trend Analysis & Storytelling with Data  
 
 ## 📂 Repository Structure  
-- PowerBI/ → Power BI .pbix file  
+- PowerBI/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/Task%202.pbix
 - screenshots/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/Amazon%20Prime%20Video%20Dashboard.png 
 
 
