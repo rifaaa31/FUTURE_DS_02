@@ -20,8 +20,8 @@ The task involved analyzing **Amazon Prime Video content data** to explore *cont
 
 ## 📂 Repository Structure  
 - PowerBI/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/Task%202.pbix
-- screenshots/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/Amazon%20Prime%20Video%20Dashboard.png 
-
+- Screenshots/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/Amazon%20Prime%20Video%20Dashboard.png 
+- Dataset/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/amazon_prime_titles.csv
 
 ## 🚀 How to Use  
 1. Clone or download this repository.  
