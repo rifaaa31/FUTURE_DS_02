@@ -20,7 +20,7 @@ The task involved analyzing **Amazon Prime Video content data** to explore *cont
 
 ## 📂 Repository Structure  
 - PowerBI/ → Power BI .pbix file  
-- screenshots/ → Dashboard screenshots  
+- screenshots/ → https://github.com/rifaaa31/FUTURE_DS_02/blob/main/Amazon%20Prime%20Video%20Dashboard.png 
 
 
 ## 🚀 How to Use  
